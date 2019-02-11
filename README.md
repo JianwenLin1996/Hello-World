@@ -1,2 +1,2 @@
 # Hello-World
-First time trying GitHub
+What's up guys!
